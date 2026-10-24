@@ -1,2 +1,2 @@
-# First Project
-My First Project. Learning Git.
+# Second Project
+My Second Project. Learning Git.
